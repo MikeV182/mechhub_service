@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #30292F;
+    font-family: "Montserrat", serif;
+}
+
+.container {
+    padding-left: 10%;
+    padding-right: 10%;
+}
