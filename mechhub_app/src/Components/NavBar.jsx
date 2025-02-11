@@ -2,6 +2,7 @@ import React from 'react'
 import logo from '../Assets/logo.svg'
 import '../Styles/NavBar.css'
 
+
 export default function NavBar() {
   return (
     <nav className='container'>
