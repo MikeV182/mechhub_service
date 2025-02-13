@@ -5,11 +5,24 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #30292F;
     font-family: "Montserrat", serif;
+}
+
+#root {
+    background-color: #30292F;
 }
 
 .container {
     padding-left: 10%;
     padding-right: 10%;
+}
+
+.foreground {
+    position: relative;
+    z-index: 10;
+}
+
+.background {
+    position: absolute;
+    z-index: 0;
 }

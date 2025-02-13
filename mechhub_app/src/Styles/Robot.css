@@ -2,11 +2,12 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    position: relative;
+    bottom: 0;
 }
 
 .robot-ico {
     height: 70vh;
-    bottom: 0;
 }
 
 .robot-text {
